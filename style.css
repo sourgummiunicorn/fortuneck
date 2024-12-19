@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Send+Flowers&display=swap");
+
+body {
+	text-align: center;
+}
+
+.header {
+	font-family: "Dancing Script", cursive, serif;
+	padding-top: 20px;
+	color: green;
+}
+
+.header img {
+	width: 250px;
+}
+
+#quote {
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: italic;
+	margin-bottom: 30px;
+	font-size: 25px;
+}
+
+.button {
+	font-family: "Dancing Script", cursive, serif;
+	background-color: yellow;
+	color: black;
+	padding: 10px 20px;
+	cursor: pointer;
+	border-radius: 8px;
+	font-size: 20px;
+}
+
+.button:hover {
+	background-color: red;
+}
